@@ -11,7 +11,7 @@ html {
 
 .background-image {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("slike/background.webp");
+    url("images/background.webp");
   background-color: gray;
   background-blend-mode: multiply;
   background-repeat: no-repeat;
@@ -696,3 +696,4 @@ input .upload-form {
     margin-bottom: 8px;
   }
 }
+
